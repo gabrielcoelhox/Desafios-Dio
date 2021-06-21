@@ -11,6 +11,7 @@ Para cada caso mostre o resultado da divisão com um dígito após o ponto decim
 */
 
 using System;
+
 class Desafio
 {
 

@@ -106,6 +106,18 @@
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Quanta-Mandioca.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
+            <tr>
+                <td align="center">10</td>
+                <td>Teste de Seleção</td>
+                <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Teste_de_Selecao_1.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">11</td>
+                <td>Validação de Nota</td>
+                <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Validacao_de_Nota.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
         </table>
     </div>
 </details>

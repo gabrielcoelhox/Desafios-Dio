@@ -66,24 +66,42 @@
             </tr>
             <tr>
                 <td align="center">3</td>
+                <td>Conversão de Tempo</td>
+                <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Conversao_De_Tempo.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
                 <td>DDD</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/DDD.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">4</td>
+                <td align="center">5</td>
+                <td>Distância</td>
+                <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Distancia.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">6</td>
                 <td>Entrada e Saída CPF</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Entrada-E-Saida-CPF.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">5</td>
+                <td align="center">7</td>
                 <td>Exibindo Números Pares</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Exibindo-Numeros-Pares.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">6</td>
+                <td align="center">8</td>
+                <td>Mês</td>
+                <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Mes.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">9</td>
                 <td>Quanta Mandioca</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Quanta-Mandioca.java">Código</a></td>
                 <td align="center">✔️</td>

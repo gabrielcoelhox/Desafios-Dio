@@ -1,4 +1,4 @@
-<p align="center"><strong>💻 Atualizado em 13 de Setembro de 2021 💻</strong></p>
+<p align="center"><strong>💻 Atualizado em 01 de Outubro de 2021 💻</strong></p>
 
 <p align="center">
   <img src="./assets/banner.png" alt="DIO" tittle="Digital Innovation One">

@@ -60,60 +60,72 @@
             </tr>
             <tr>
                 <td align="center">2</td>
+                <td>A mensagem do padre do balão</td>
+                <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/A-Mensagem-do-Padre-do-Balao.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
                 <td>Área do Círculo</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Area-do-Circulo.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
+                <td align="center">4</td>
                 <td>Conversão de Tempo</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Conversao_De_Tempo.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">4</td>
+                <td align="center">5</td>
+                <td>Crescente e Decrescente</td>
+                <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Crescente_e_Decrescente.java">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">6</td>
                 <td>DDD</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/DDD.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">5</td>
+                <td align="center">7</td>
                 <td>Distância</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Distancia.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">6</td>
+                <td align="center">8</td>
                 <td>Entrada e Saída CPF</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Entrada-E-Saida-CPF.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">7</td>
+                <td align="center">9</td>
                 <td>Exibindo Números Pares</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Exibindo-Numeros-Pares.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">8</td>
+                <td align="center">10</td>
                 <td>Mês</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Mes.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">9</td>
+                <td align="center">11</td>
                 <td>Quanta Mandioca</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Quanta-Mandioca.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">10</td>
+                <td align="center">12</td>
                 <td>Teste de Seleção</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Teste_de_Selecao_1.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">11</td>
+                <td align="center">13</td>
                 <td>Validação de Nota</td>
                 <td><a href="https://github.com/gabrielcoelhox/Desafios-Dio/blob/main/Java/Validacao_de_Nota.java">Código</a></td>
                 <td align="center">✔️</td>
